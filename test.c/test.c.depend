@@ -1,0 +1,165 @@
+# depslib dependency file v1.0
+1528608513 source:e:\games\test.c\page21q2.c
+	<stdio.h>
+
+1528623366 source:e:\games\test.c\gdsgds.c
+	<stdlib.h>
+	<stdio.h>
+
+1528713632 source:e:\games\test.c\instructionsq4.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1529486264 source:e:\games\test.c\instructionsq5.c
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+
+1529488037 source:e:\games\test.c\instructionsq6.c
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+
+1529820912 source:e:\games\test.c\instructionsq7.c
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+
+1529860946 source:e:\games\test.c\instructionsq9.c
+	<stdio.h>
+	<stdlib.h>
+
+1530177894 source:e:\games\test.c\cahpterqi.c
+	<stdlib.h>
+	<stdio.h>
+
+1530180568 source:e:\games\test.c\cahpter3qj.c
+	<stdlib.h>
+	<stdio.h>
+
+1530249158 source:e:\games\test.c\cahpter3qk.c
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+
+1530282792 source:e:\games\test.c\cahpter4qc.c
+	<stdio.h>
+	<stdlib.h>
+
+1530345050 source:e:\games\test.c\cahpter4qd.c
+	<stdlib.h>
+	<stdio.h>
+
+1530457370 source:e:\games\test.c\cahpter4qh.c
+	<stdlib.h>
+	<stdio.h>
+
+1530690512 source:e:\games\test.c\cahpter5qc.c
+	<stdlib.h>
+	<stdio.h>
+
+1530868106 source:e:\games\test.c\cahpter5qh.c
+	<stdio.h>
+
+1531896723 source:e:\games\test.c\cahpter9qb.c
+	<stdlib.h>
+	<stdio.h>
+
+1531910000 source:e:\games\test.c\cahpter9qc.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1531933826 source:e:\games\test.c\cahpter9qd.c
+	<stdio.h>
+	<stdlib.h>
+
+1531935062 source:e:\games\test.c\cahpter9qe.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1531977747 source:e:\games\test.c\cahpter9qf.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1531978534 source:e:\games\test.c\cahpter9qg.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1531977747 source:d:\test.c\cahpter9qf.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1584436038 source:d:\test.c\convexhull.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+
+1585931381 source:d:\test.c\sell_all_the_cars.cpp
+	<stdio.h>
+	<bits/stdc++.h>
+	<algorithm>
+	<stdbool.h>
+
+1586884233 source:d:\test.c\seive_of_erastoteses.cpp
+	<stdio.h>
+	<iostream>
+	<bits/stdc++.h>
+	<vector>
+	<algorithm>
+	<numeric>
+
+1586886259 source:d:\test.c\mos_algorithm.cpp
+	<bits/stdc++.h>
+	<algorithm>
+
+1586958547 source:d:\test.c\segment_tree.cpp
+	<bits/stdc++.h>
+
+1586969224 source:d:\test.c\fenwick_tree.cpp
+	<bits/stdc++.h>
+
+1587056280 source:d:\test.c\minimum_stack.cpp
+	<bits/stdc++.h>
+	<stack>
+	<vector>
+
+1587057486 source:d:\test.c\minimum_queue.cpp
+	<bits/stdc++.h>
+	<deque>
+
+1593883610 source:d:\test.c\missing a point.cpp
+	<iostream>
+	<unordered_map>
+
+1593923233 source:d:\test.c\chefina and swaps.cpp
+	<bits/stdc++.h>
+	<unordered_map>
+	<algorithm>
+	<iostream>
+
+1598719166 source:d:\test.c\floyd_tortoise_and_hare.cpp
+	<bits/stdc++.h>
+
+1593860050 source:d:\test.c\ada king.cpp
+	<bits/stdc++.h>
+
+1601828069 source:d:\test.c\replace_for_x.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<queue>
+
+1601890872 source:d:\test.c\d_dimension_mst.cpp
+	<iostream>
+	<vector>
+	<utility>
+	<algorithm>
+	<bits/stdc++.h>
+	<algorithm>
+	<iostream>
+
